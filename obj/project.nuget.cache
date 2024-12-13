@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "79kHGxrQm79HJmjai51p/mdve3KHvilb6R8aK6JoxW2zqkjXX/89jChALJKfZ6VUt/FHOrnDVZeWueqUh+JQog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Personal Computer\\Downloads\\DRRMSystem\\DRRMSystem\\DRRMSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Personal Computer\\.nuget\\packages\\chart.js\\3.7.1\\chart.js.3.7.1.nupkg.sha512",
+    "C:\\Users\\Personal Computer\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
+    "C:\\Users\\Personal Computer\\.nuget\\packages\\livecharts.winforms\\0.9.7.1\\livecharts.winforms.0.9.7.1.nupkg.sha512",
+    "C:\\Users\\Personal Computer\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512",
+    "C:\\Users\\Personal Computer\\.nuget\\packages\\system.data.sqlclient\\4.8.6\\system.data.sqlclient.4.8.6.nupkg.sha512"
+  ],
+  "logs": []
+}
